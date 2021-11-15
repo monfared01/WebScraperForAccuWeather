@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "latest",
-    "cheerio": "latest",
-    "express": "latest",
-    "fs": "latest"
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security"
   }
 }
