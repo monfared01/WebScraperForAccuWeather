@@ -1,0 +1,3633 @@
+{
+    "month": "May",
+    "year": "2022",
+    "status": [
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Sunday",
+            "day": "1",
+            "history": "Hist. Avg.",
+            "high": "15°",
+            "low": "7°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Monday",
+            "day": "2",
+            "history": "Hist. Avg.",
+            "high": "15°",
+            "low": "7°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Tuesday",
+            "day": "3",
+            "history": "Hist. Avg.",
+            "high": "15°",
+            "low": "7°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Wednesday",
+            "day": "4",
+            "history": "Hist. Avg.",
+            "high": "15°",
+            "low": "7°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Thursday",
+            "day": "5",
+            "history": "Hist. Avg.",
+            "high": "15°",
+            "low": "7°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Friday",
+            "day": "6",
+            "history": "Hist. Avg.",
+            "high": "15°",
+            "low": "7°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Saturday",
+            "day": "7",
+            "history": "Hist. Avg.",
+            "high": "15°",
+            "low": "7°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Sunday",
+            "day": "8",
+            "history": "Hist. Avg.",
+            "high": "15°",
+            "low": "7°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Monday",
+            "day": "9",
+            "history": "Hist. Avg.",
+            "high": "15°",
+            "low": "7°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Tuesday",
+            "day": "10",
+            "history": "Hist. Avg.",
+            "high": "16°",
+            "low": "7°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Wednesday",
+            "day": "11",
+            "history": "Hist. Avg.",
+            "high": "16°",
+            "low": "7°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Thursday",
+            "day": "12",
+            "history": "Hist. Avg.",
+            "high": "16°",
+            "low": "8°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Friday",
+            "day": "13",
+            "history": "Hist. Avg.",
+            "high": "16°",
+            "low": "8°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Saturday",
+            "day": "14",
+            "history": "Hist. Avg.",
+            "high": "16°",
+            "low": "8°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Sunday",
+            "day": "15",
+            "history": "Hist. Avg.",
+            "high": "16°",
+            "low": "8°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Monday",
+            "day": "16",
+            "history": "Hist. Avg.",
+            "high": "16°",
+            "low": "8°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Tuesday",
+            "day": "17",
+            "history": "Hist. Avg.",
+            "high": "16°",
+            "low": "8°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Wednesday",
+            "day": "18",
+            "history": "Hist. Avg.",
+            "high": "17°",
+            "low": "8°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Thursday",
+            "day": "19",
+            "history": "Hist. Avg.",
+            "high": "17°",
+            "low": "8°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Friday",
+            "day": "20",
+            "history": "Hist. Avg.",
+            "high": "17°",
+            "low": "8°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Saturday",
+            "day": "21",
+            "history": "Hist. Avg.",
+            "high": "17°",
+            "low": "9°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Sunday",
+            "day": "22",
+            "history": "Hist. Avg.",
+            "high": "17°",
+            "low": "9°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Monday",
+            "day": "23",
+            "history": "Hist. Avg.",
+            "high": "17°",
+            "low": "9°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Tuesday",
+            "day": "24",
+            "history": "Hist. Avg.",
+            "high": "18°",
+            "low": "9°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "-8 hrs - 47 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:07 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Wednesday",
+            "day": "25",
+            "history": "Hist. Avg.",
+            "high": "18°",
+            "low": "9°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Thursday",
+            "day": "26",
+            "history": "Hist. Avg.",
+            "high": "18°",
+            "low": "9°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Friday",
+            "day": "27",
+            "history": "Hist. Avg.",
+            "high": "18°",
+            "low": "9°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Saturday",
+            "day": "28",
+            "history": "Hist. Avg.",
+            "high": "18°",
+            "low": "10°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Sunday",
+            "day": "29",
+            "history": "Hist. Avg.",
+            "high": "18°",
+            "low": "10°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Monday",
+            "day": "30",
+            "history": "Hist. Avg.",
+            "high": "19°",
+            "low": "10°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        },
+        {
+            "class": "is-feature",
+            "weather": "",
+            "dayname": "Tuesday",
+            "day": "31",
+            "history": "Hist. Avg.",
+            "high": "19°",
+            "low": "10°",
+            "details": {
+                "time": [
+                    {
+                        "title": "Day",
+                        "real-feel": "RealFeel®9°\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tRealFeel Shade™\n\t\t\t\t\t7°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Hi",
+                        "temperature": "7°Hi",
+                        "phrase": "Sunshine and patchy clouds",
+                        "details": [
+                            {
+                                "key": "Max UV Index",
+                                "value": "2 Low"
+                            },
+                            {
+                                "key": "Wind",
+                                "value": "N 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "20 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "4%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Night",
+                        "real-feel": "RealFeel®-1°",
+                        "short-date": "2/13",
+                        "hi-lo-label": "Lo",
+                        "temperature": "3°Lo",
+                        "phrase": "Clear to partly cloudy",
+                        "details": [
+                            {
+                                "key": "Wind",
+                                "value": "WSW 9 km/h"
+                            },
+                            {
+                                "key": "Wind Gusts",
+                                "value": "26 km/h"
+                            },
+                            {
+                                "key": "Probability of Precipitation",
+                                "value": "1%"
+                            },
+                            {
+                                "key": "Probability of Thunderstorms",
+                                "value": "0%"
+                            },
+                            {
+                                "key": "Precipitation",
+                                "value": "0.0 mm"
+                            },
+                            {
+                                "key": "Cloud Cover",
+                                "value": "26%"
+                            }
+                        ]
+                    }
+                ],
+                "history": {
+                    "temperature-history": "2/13",
+                    "details": [
+                        {
+                            "key": "Forecast",
+                            "high": "7°",
+                            "low": "3°"
+                        },
+                        {
+                            "key": "Average",
+                            "high": "7°",
+                            "low": "2°"
+                        },
+                        {
+                            "key": "Last Year",
+                            "high": "0°",
+                            "low": "-5°"
+                        }
+                    ]
+                },
+                "status": {
+                    "moon": {
+                        "duration": "17 hrs - 28 mins",
+                        "rise": "1:20 PM",
+                        "set": "6:48 AM"
+                    },
+                    "sun": {
+                        "duration": "9 hrs - 52 mins",
+                        "rise": "7:19 AM",
+                        "set": "5:11 PM"
+                    }
+                }
+            }
+        }
+    ]
+}
